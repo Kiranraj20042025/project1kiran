@@ -1,0 +1,15 @@
+p{
+    justify-content: flex-start;
+}
+*{
+    margin: auto;
+}
+img{
+    border-radius: 0px 50px 0px 50px;
+}
+body{
+    background-color: blueviolet;
+}
+#k{
+    color: violet;
+}
